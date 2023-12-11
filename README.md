@@ -4,7 +4,11 @@
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/eeoojlakofhogpkplghnmcljbcjdobbo)](https://chrome.google.com/webstore/detail/reddit-comments-for-youtu/eeoojlakofhogpkplghnmcljbcjdobbo) [![Mozilla Add-on](https://img.shields.io/amo/v/reddit-comments-for-youtube)](https://addons.mozilla.org/en-US/firefox/addon/reddit-comments-for-youtube/)
 
-An extension to display Reddit (and Lemmy) threads for YouTube and Nebula videos.
+An extension to display Reddit (and Lemmy) threads embedded in YouTube and Nebula videos. 
+
+The extension can also work on _any_ website as a popup that displays all Reddit and Lemmy threads with the same URL as the website you're currently on.
+
+![librewolf_u7jGVnUsDJ](https://github.com/slrgt/Reddit-Comments-for-YouTube/assets/114287507/e4d4725e-ee4f-4b69-902d-cae70224b840)
 
 This is loosely based on [Lucien Maloney's extension](https://github.com/lucienmaloney/reddit_comments_for_youtube_extension) (it was once a fork, but has since been totally rewritten twice).
 
