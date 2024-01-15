@@ -113,7 +113,7 @@
 	}
 
 	.options {
-		@apply bg-select absolute top-full z-10 border-interactable border-solid box-content border-t-0 flex flex-col rounded-b-small max-h-[40vh] overflow-auto;
+		@apply bg-select absolute top-full z-10 border-interactable border-solid box-content border-t-2 flex flex-col rounded-b-small max-h-[40vh] overflow-auto;
 
 		button {
 			@apply bg-option p-[5px] border-t-0 flex-shrink-0 last:border-b-0 hover:bg-hover;
